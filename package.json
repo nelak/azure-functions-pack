@@ -29,8 +29,9 @@
   "dependencies": {
     "commander": "~2.9.0",
     "debug": "~2.6.1",
-    "rimraf": "~2.5.4",
-    "webpack": "fulls1z3/webpack#v2.2.1-harmony",
+    "rimraf": "^2.5.4",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony-v2.8.22",
+    "webpack": "^2.2.1",
     "winston": "~2.3.1"
   },
   "devDependencies": {
